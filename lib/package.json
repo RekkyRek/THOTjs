@@ -1,0 +1,27 @@
+{
+  "name": "thotjs",
+  "version": "1.0.0",
+  "description": "The best discord bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekkyrek/thotjs.git"
+  },
+  "keywords": [
+    "Discord",
+    "Discord",
+    "Bot"
+  ],
+  "author": "RekkyRek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rekkyrek/thotjs/issues"
+  },
+  "homepage": "https://github.com/rekkyrek/thotjs#readme",
+  "dependencies": {
+    "eris": "^0.8.6"
+  }
+}
