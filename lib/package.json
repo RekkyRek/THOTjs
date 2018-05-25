@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/rekkyrek/thotjs#readme",
   "dependencies": {
-    "eris": "^0.8.6"
+    "bufferutil": "^3.0.5",
+    "eris": "^0.8.6",
+    "erlpack": "github:abalabahaha/erlpack",
+    "eventemitter3": "^3.1.0",
+    "zlib-sync": "^0.1.4"
   }
 }
